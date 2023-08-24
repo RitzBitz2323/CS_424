@@ -1,2 +1,2 @@
-# CS_352
-Work for cs 352
+# CS_424
+Work for cs 424
